@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Bio</title>
+  </head>
+  <body>
+    <h1>Hello Im Nestor Guthrie</h1><br>
+    <center>
+    <img src="profile.jpeg" alt="Mountain View">
+    <p>My name is Nestor Guthrie im currently a junior web developer at wyncode.
+    I was born in Miami,FL where i attended Miami Dade College from 2009 - 2011. After getting my A.S degree
+    I joined the United States Air Force. After completing basic training in San Antino, Teaxs. I was stationed in
+    Fort Lee, Virgina for advanced training. In the summer of 2012 i returned to Miami, FL where i was permentanly stationed at
+    Homestead ARB, FL where i served for the last 7 years. In 2015 i completed my bachloers degree in biology at Nova Southeastern Univerity.
+    After completing my degree i went off to work for the City Of Miami Beach helping allocate city resources. In january 2017 I was deployed to
+    the middle east with the military be part of a joint coalition task force. After returning to the United States in Augest 2017 I joined wyncode
+    to realize my dream to become a web developer.
+  </center>
+  </p>
+  </body>
+</html>
