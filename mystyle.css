@@ -2,7 +2,7 @@
     background-color: lightgreen;
 }*/
 h1 {
-  font-family: "Haunted Eyes", Times, serif;
+  font-family: 'Pacifico', cursive;
 }
 p {
   style: red;
@@ -12,7 +12,7 @@ p {
     border-style: solid;
     border-width: 3px;
     border-color: red;
-    background-color: darkbrown; 
+    background-color: darkbrown;
 }
 p {
     font-family: "Times New Romen", Times, serif;
@@ -22,9 +22,7 @@ p {
 }
 
 body {
-    background-image: url("http://www.publicdomainpictures.net/pictures/30000/velka/wood-background-1354583158Nc4.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: url("http://i.stack.imgur.com/vhoa0.jpg")
 }
 img {
     border-style: solid;
